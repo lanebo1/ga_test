@@ -1,0 +1,5 @@
+Pyomo==6.7.3
+numpy==2.0.0
+openpyxl==3.1.4
+hopcroftkarp==1.2.5
+pygmo==2.19.5

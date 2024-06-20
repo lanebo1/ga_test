@@ -1,0 +1,8 @@
+ipython~=8.18.1
+traitlets~=5.14.3
+numpy~=2.0.0
+openpyxl~=3.1.4
+pip~=24.0
+pyomo~=6.7.3
+hopcroftkarp~=1.2.5
+pygmo~=2.19.6
